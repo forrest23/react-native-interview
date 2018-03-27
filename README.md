@@ -1,7 +1,5 @@
 # react-native-interview
-介绍react-native面试中可能会问到的知识点
-
-本文会不定时更新，不断完善，希望大家都能更加了解react-native
+介绍react-native面试中可能会问到的知识点。本文会不定时更新，不断完善，希望大家都能更加了解react-native。
 
 *本文原创首发于公众号：ReactNative开发圈，转载需注明出处。*
 
